@@ -1,0 +1,2 @@
+set(ur5_notebook_MESSAGE_FILES "/home/macbook/ur_ws/src/ur5_ROS-Gazebo-master/msg/blocks_poses.msg;/home/macbook/ur_ws/src/ur5_ROS-Gazebo-master/msg/Tracker.msg")
+set(ur5_notebook_SERVICE_FILES "")
